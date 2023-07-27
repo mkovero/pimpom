@@ -1,0 +1,6 @@
+13:32 $ python pim.py "Hello"
+aaauliaaaaaauliaaaaaaaaaaaauliuliaaaaaauliaaauliaaauliuliaaauliuliaaaaaaaaauliuliaaauliuliaaaaaaaaauliuliaaauliuliuliuli
+✔ ~/pimpom
+13:32 $ python pim.py "Hello" | python pom.py
+Hello
+✔ ~/pimpom
